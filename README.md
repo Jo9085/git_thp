@@ -1,2 +1,2 @@
 # git_thp
-Introdution to git
+Ceci n'est pas mon premier repo ahaha
